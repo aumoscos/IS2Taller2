@@ -1,11 +1,7 @@
 package taller;
 
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 
-
-import java.util.Scanner;
 
 public class DiningExperienceManager {
     public static void main(String[] args) {
